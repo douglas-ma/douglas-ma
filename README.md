@@ -12,7 +12,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <a href="https://github.com/douglas-ma">
-    <img src="https://img.shields.io/badge/GitHub-DOUGLAS-MA-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-DOUGLAS--MA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/d.moura04">
     <img src="https://img.shields.io/badge/Instagram-@d.moura04-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
