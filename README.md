@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi 👋, I'm Douglas Araújo
 
-<!--
-**douglas-ma/douglas-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ** Junior Full-Stack Software Developer **
+
 
 Here are some ideas to get you started:
 
